@@ -9,7 +9,7 @@ function multiplicar(a, b) {
 
 
 function somar(a, b) {
-    return a - b;
+    return a + b;
   }
   console.log('Soma:', somar(2, 3));
  develop
